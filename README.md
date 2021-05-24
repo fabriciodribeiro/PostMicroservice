@@ -1,4 +1,4 @@
-# PostMicroservice
+# Post Microservice - Decoupled Microservices - Real-World Example With Code
 
 In this guide, we create two C# ASP.NET Core Microservices. Both microservices have their own bounded context and domain model. Each microservice has its own database and REST API. One microservice publishes integration events, that the other microservice consumes.
 
